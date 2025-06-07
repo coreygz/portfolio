@@ -8,8 +8,8 @@ permalink: /
 **Mathematician | Data Scientist**
 
 ## Sections
-- [Mathematics](/math/)  
-- [Data Science](/data-science/)
+ [Mathematics](/math/)  
+ [Data Science](/data-science/)
 ---
 
 ## Education
