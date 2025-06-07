@@ -1,5 +1,7 @@
-title: Corey Zhang
-
-
-show_downloads: true
-theme: jekyll-theme-minimal
+navbar:
+  - title: Home
+    url: /
+  - title: Mathematics
+    url: /math/
+  - title: Data Science
+    url: /data-science/
