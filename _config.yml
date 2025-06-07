@@ -4,21 +4,24 @@ email: "coreyz@udel.edu"
 description: "Portfolio of Mathematics & Data Science projects"
 
 # GitHub Pages URLs
-url: "https://coreygz.github.io"   # your user site
-baseurl: "/portfolio"              # your repo’s subpath
+url: "https://coreygz.github.io"
+baseurl: "/portfolio"
 
-remote_theme: pages-themes/merlot@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+# Theme
+remote_theme: "pages-themes/slate@v0.2.0"
 
-# Navigation bar
-navbar:
+# Global navigation links (appears in the top bar)
+header-links:
   - title: Home
     url: /
   - title: Mathematics
     url: /math/
   - title: Data Science
     url: /data-science/
+
+# Plugins
+plugins:
+  - jekyll-feed
 
 # Markdown parser
 markdown: kramdown
