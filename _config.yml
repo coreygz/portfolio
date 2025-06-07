@@ -2,11 +2,13 @@
 title: "Corey Zhang"
 email: "coreyz@udel.edu"
 description: "Portfolio of Mathematics & Data Science projects"
-baseurl: ""                                 # if your repo is a user site, leave blank
-url: "https://<your-username>.github.io"    # your Pages URL
 
-# Theme: use a GitHub Pages–hosted theme
-remote_theme: "pages-themes/slate@v0.2.0"
+# GitHub Pages URLs
+url: "https://coreygz.github.io"   # your user site
+baseurl: "/portfolio"              # your repo’s subpath
+
+# Theme
+theme: jekyll-theme-slate          # built-in Pages theme—no extra plugins needed
 
 # Plugins
 plugins:
@@ -24,7 +26,7 @@ navbar:
 # Markdown parser
 markdown: kramdown
 
-# Ignore these files/folders
+# Exclude from build
 exclude:
   - Gemfile
   - Gemfile.lock
