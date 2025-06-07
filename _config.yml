@@ -2,14 +2,11 @@
 title: "Corey Zhang"
 email: "coreyz@udel.edu"
 description: "Portfolio of Mathematics & Data Science projects"
-baseurl: ""              # the subpath of your site, e.g. "/portfolio" if using a project repo
-url: "https://<your-username>.github.io"  # your GitHub Pages URL
+baseurl: ""                                 # if your repo is a user site, leave blank
+url: "https://<your-username>.github.io"    # your Pages URL
 
-# Theme
-# Option A: use a built-in GitHub Pages theme
-# remote_theme: "pages-themes/slate@v0.2.0"
-# Option B: use minima + custom CSS (if you created assets/css/main.scss)
-theme: minima
+# Theme: use a GitHub Pages–hosted theme
+remote_theme: "pages-themes/slate@v0.2.0"
 
 # Plugins
 plugins:
@@ -24,10 +21,10 @@ navbar:
   - title: Data Science
     url: /data-science/
 
-# Markdown settings
+# Markdown parser
 markdown: kramdown
 
-# Files/folders to skip
+# Ignore these files/folders
 exclude:
   - Gemfile
   - Gemfile.lock
