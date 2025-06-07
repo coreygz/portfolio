@@ -1,3 +1,21 @@
+# Site settings
+title: "Corey Zhang"
+email: "coreyz@udel.edu"
+description: "Portfolio of Mathematics & Data Science projects"
+baseurl: ""              # the subpath of your site, e.g. "/portfolio" if using a project repo
+url: "https://<your-username>.github.io"  # your GitHub Pages URL
+
+# Theme
+# Option A: use a built-in GitHub Pages theme
+# remote_theme: "pages-themes/slate@v0.2.0"
+# Option B: use minima + custom CSS (if you created assets/css/main.scss)
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+
+# Navigation bar
 navbar:
   - title: Home
     url: /
@@ -6,4 +24,11 @@ navbar:
   - title: Data Science
     url: /data-science/
 
- #date navbar for Math & Data Science,
+# Markdown settings
+markdown: kramdown
+
+# Files/folders to skip
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
