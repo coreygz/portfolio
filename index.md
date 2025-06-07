@@ -7,6 +7,11 @@ permalink: /
 # Corey Zhang  
 **Mathematician | Data Scientist**
 
+## Sections
+- [Mathematics](/math/)  
+- [Data Science](/data-science/)
+
+
 ## Education
 
 **B.S. in Mathematics**, University of Delaware  
