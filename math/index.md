@@ -6,4 +6,8 @@ permalink: /math/
 
 # Mathematics Deep-Dive
 
-(Your intro here…)
+A running collection of pure & applied math articles, proofs, and mini-lectures.
+
+## Journal & Projects
+- [Group Theory primer](/math/group-theory/)
+- [PDE solver walkthrough](/math/pde-solver/)
