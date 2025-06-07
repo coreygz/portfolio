@@ -10,7 +10,7 @@ permalink: /
 ## Sections
 - [Mathematics](/math/)  
 - [Data Science](/data-science/)
-
+---
 
 ## Education
 
