@@ -8,7 +8,7 @@ url: "https://coreygz.github.io"   # your user site
 baseurl: "/portfolio"              # your repo’s subpath
 
 # Theme
-theme: jekyll-theme-slate          # built-in Pages theme—no extra plugins needed
+theme: jekyll-theme-minimal          # built-in Pages theme—no extra plugins needed
 
 # Plugins
 plugins:
