@@ -5,3 +5,5 @@ navbar:
     url: /math/
   - title: Data Science
     url: /data-science/
+
+ #date navbar for Math & Data Science,
