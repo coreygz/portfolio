@@ -1,0 +1,27 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+    <!-- ── OUR OVERRIDE: bump spacing around all H2 sections ── -->
+    <style>
+      .page-content > h2 {
+        margin-top: 4rem;
+        margin-bottom: 3rem;
+      }
+    </style>
+  </head>
+  <body>
+    {% include banner.html %}
+    <div class="wrapper">
+      <aside class="sidebar">
+        {{ content | toc_only }}
+      </aside>
+      <main class="page-content">
+        {{ content }}
+      </main>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>
