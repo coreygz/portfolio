@@ -26,8 +26,8 @@ Teaches and helps students in Calculus, Statistics, and Linear Algebra. I manage
 
 ## Sections
 
- [Mathematics](/math/)  
- [Data Science](/data-science/)
+ [Mathematics Projects](/math/)  
+ [Data Science Projects](/data-science/)
  
 ---
 
