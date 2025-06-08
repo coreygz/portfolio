@@ -10,11 +10,6 @@ remote_theme: "pages-themes/merlot@v0.3.0"
 # …rest of your config…
 
 email: "coreyz@udel.edu"
-description: "Portfolio of Mathematics & Data Science projects"
-
-# GitHub Pages URLs
-url: "https://coreygz.github.io"
-baseurl: "/portfolio"
 
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
