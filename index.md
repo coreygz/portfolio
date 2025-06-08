@@ -4,13 +4,7 @@ title: Home
 permalink: /
 ---
 
-## Academic Student Support
-
-<p class="job-company">Delaware Technical Community College</p>
-
-Teaches and helps students in Calculus, Statistics, and Linear Algebra.  
-Manages math tutoring centers, schedules tutors, and provides one-on-one and  
-group assistance so students improve their grades.
+I am currently working as Academic Student Support at Delaware Technical Community College, where I teach and help students in Calculus, Statistics, and Linear Algebra. I also manage math tutoring centers, schedule tutors, and provide one-on-one and group assistance to help students improve their grades.
 
 <br><br>
 
