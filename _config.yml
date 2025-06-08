@@ -1,6 +1,14 @@
 # Site settings
 title: "Corey Zhang"
-subtitle: "Mathematician | Data Scientist" 
+description: |
+  Mathematician | Data Scientist
+  Portfolio of Mathematics & Data Science projects
+
+url:      "https://coreygz.github.io"
+baseurl:  "/portfolio"
+remote_theme: "pages-themes/merlot@v0.3.0"
+# …rest of your config…
+
 email: "coreyz@udel.edu"
 description: "Portfolio of Mathematics & Data Science projects"
 
