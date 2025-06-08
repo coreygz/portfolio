@@ -9,7 +9,8 @@ permalink: /
 <p class="job-company">Delaware Technical Community College</p>
 
 Teaches and helps students in Calculus, Statistics, and Linear Algebra.  
-Manages math tutoring centers, schedules tutors, and provides one-on-one and group assistance so students improve their grades.
+Manages math tutoring centers, schedules tutors, and provides one-on-one and  
+group assistance so students improve their grades.
 
 <br><br>
 
