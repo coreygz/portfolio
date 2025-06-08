@@ -1,24 +1,18 @@
 # _config.yml
 
-# Site identity
 title:       "Corey Zhang"
-description: "Mathematician | Data Scientist<br>Portfolio of Mathematics & Data Science projects"
+description: "Mathematician | Data Scientist<br><br>Portfolio of Mathematics & Data Science projects"
 
-# GitHub Pages settings
-url:        "https://coreygz.github.io"   # your user site
-baseurl:    "/portfolio"                  # subpath for this project
+url:         "https://coreygz.github.io"
+baseurl:     "/portfolio"
 
-# Theme
 remote_theme: "pages-themes/merlot@v0.3.0"
 
-# Plugins
 plugins:
   - jekyll-feed
 
-# Markdown
 markdown: kramdown
 
-# Exclude these files/folders from the build
 exclude:
   - Gemfile
   - Gemfile.lock
