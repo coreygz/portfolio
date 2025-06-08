@@ -4,17 +4,14 @@ title: Home
 permalink: /
 ---
 
-## Job {.job-section}
-
-### Academic Student Support
+## Academic Student Support
 
 <p class="job-company">Delaware Technical Community College</p>
 
 Teaches and helps students in Calculus, Statistics, and Linear Algebra.  
-I manage math tutoring centers, schedule tutors, and provide one-on-one and  
-group assistance so students can improve their grades.
+Manages math tutoring centers, schedules tutors, and provides one-on-one and group assistance so students improve their grades.
 
-<div style="height:3rem"></div>
+<br><br>
 
 ## Education
 
@@ -22,14 +19,14 @@ group assistance so students can improve their grades.
 **M.S. in Data Science**, University of Delaware  
 **M.S. in Applied Mathematics**, West Chester University of Pennsylvania
 
-<div style="height:3rem"></div>
+<br><br>
 
 ## Sections
 
 - [Mathematics Projects](math/)  
 - [Data Science Projects](data-science/)
 
-<div style="height:3rem"></div>
+<br><br>
 
 ## Contact
 
