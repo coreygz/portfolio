@@ -9,7 +9,7 @@ permalink: /
 ## Job
 
 **Academic Student Support** <br>
-<small>Delaware Technical Community College</small>  
+<small>Delaware Technical Community College</small>  <br>
 Teaches and helps students in Calculus, Statistics, and Linear Algebra. I manage math tutoring centers, schedule tutors, and provide one-on-one and group assistance so students can improve their grades.
 
 
