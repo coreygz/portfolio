@@ -4,7 +4,12 @@ title: Home
 permalink: /
 ---
 
-
+<style>
+  .page-content h2 {
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+  }
+</style>
 
 <!-- Job “card” with custom styling -->
 ## Job
