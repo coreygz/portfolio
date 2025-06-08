@@ -9,18 +9,10 @@ permalink: /
 <!-- Job “card” with custom styling -->
 ## Job
 
-<h3 style="
-     font-family: Arial, sans-serif;
-     font-size: 1.25em;
-     margin: 0;
-   ">
+<h3 style="font-family: Arial, sans-serif; margin: 0;">
   Academic Student Support
 </h3>
-<p style="
-     font-family: Georgia, serif;
-     font-size: 0.9em;
-     margin: 0.25em 0 1em 0;
-   ">
+<p style="font-family: Georgia, serif; margin: 0.5em 0;">
   Delaware Technical Community College
 </p>
 
