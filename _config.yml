@@ -1,6 +1,6 @@
 # Site settings
 title: "Corey Zhang"
-description: "<small>  Mathematician | Data Scientist</small>  <br><br>Portfolio of Mathematics & Data Science projects"
+description: "<small>  Mathematician | Data Scientist</small> <br>Portfolio of Mathematics & Data Science projects"
 
 url:      "https://coreygz.github.io"
 baseurl:  "/portfolio"
