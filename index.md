@@ -9,12 +9,13 @@ permalink: /
 <!-- Job “card” with custom styling -->
 ## Job
 
-<h3 style="font-family: Arial, sans-serif; margin: 0;">
+<h3 style="font-family: Arial, sans-serif; margin: 0; color: #c9ad70;">
   Academic Student Support
 </h3>
-<p style="font-family: Georgia, serif; margin: 0.5em 0;">
+<p style="font-family: Georgia, serif; margin: 0.5em 0; color: #ccc;">
   Delaware Technical Community College
 </p>
+
 
 Teaches and helps students in Calculus, Statistics, and Linear Algebra. I manage math tutoring centers, schedule tutors, and provide one-on-one and group assistance so students can improve their grades.
 
