@@ -5,7 +5,7 @@ permalink: /
 ---
 
 
-**Mathematician | Data Scientist**
+Mathematician | Data Scientist
 
 
 ## Job
