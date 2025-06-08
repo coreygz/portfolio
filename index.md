@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-# Corey Zhang  
+
 **Mathematician | Data Scientist**
 
 
