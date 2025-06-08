@@ -4,7 +4,6 @@ title: Home
 permalink: /
 ---
 
-
 ## Job {.job-section}
 
 ### Academic Student Support
@@ -15,28 +14,16 @@ Teaches and helps students in Calculus, Statistics, and Linear Algebra.
 I manage math tutoring centers, schedule tutors, and provide one-on-one and  
 group assistance so students can improve their grades.
 
-
-
 ## Education
 
 **B.S. in Mathematics**, University of Delaware  
 **M.S. in Data Science**, University of Delaware  
 **M.S. in Applied Mathematics**, West Chester University of Pennsylvania
 
-
-
-
-
 ## Sections
 
- [Mathematics Projects](math/)  
- [Data Science Projects](data-science/)
- 
----
-
-
-
-
+- [Mathematics Projects](math/)  
+- [Data Science Projects](data-science/)
 
 ## Contact
 
