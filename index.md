@@ -7,12 +7,12 @@ permalink: /
 # Corey Zhang  
 **Mathematician | Data Scientist**
 
-## Sections
 
- [Mathematics](/math/)  
- [Data Science](/data-science/)
- 
----
+## Job
+
+**Academic Student Support**, Delaware Technical Community College  
+Teaches and helps students in Calculus, Statistics, and Linear Algebra. I manage math tutoring centers, schedule tutors, and provide one-on-one and group assistance so students can improve their grades.
+
 
 ## Education
 
@@ -21,10 +21,17 @@ permalink: /
 **M.S. in Applied Mathematics**, West Chester University of Pennsylvania
 
 
-## Job
 
-**Academic Student Support**, Delaware Technical Community College  
-Teaches and helps students in Calculus, Statistics, and Linear Algebra. I manage math tutoring centers, schedule tutors, and provide one-on-one and group assistance so students can improve their grades.
+
+
+## Sections
+
+ [Mathematics](/math/)  
+ [Data Science](/data-science/)
+ 
+---
+
+
 
 ## Projects
 
