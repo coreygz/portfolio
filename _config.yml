@@ -1,35 +1,24 @@
-# Site settings
-title: "Corey Zhang"
-description: "<small>  Mathematician | Data Scientist</small> <br>Portfolio of Mathematics & Data Science projects"
+# _config.yml
 
-url:      "https://coreygz.github.io"
-baseurl:  "/portfolio"
+# Site identity
+title:       "Corey Zhang"
+description: "Mathematician | Data Scientist<br>Portfolio of Mathematics & Data Science projects"
+
+# GitHub Pages settings
+url:        "https://coreygz.github.io"   # your user site
+baseurl:    "/portfolio"                  # subpath for this project
+
+# Theme
 remote_theme: "pages-themes/merlot@v0.3.0"
-# …rest of your config…
-
-email: "coreyz@udel.edu"
-
-remote_theme: pages-themes/midnight@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
-# Global navigation links (appears in the top bar)
-header-links:
-  - title: Home
-    url: /
-  - title: Mathematics
-    url: /math/
-  - title: Data Science
-    url: /data-science/
 
 # Plugins
 plugins:
   - jekyll-feed
 
-# Markdown parser
+# Markdown
 markdown: kramdown
 
-# Exclude from build
+# Exclude these files/folders from the build
 exclude:
   - Gemfile
   - Gemfile.lock
