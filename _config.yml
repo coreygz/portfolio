@@ -1,25 +1,23 @@
-# _config.yml
-
 # Site identity
 title:       "Corey Zhang"
 description: "Mathematician | Data Scientist<br><br>Portfolio of Mathematics & Data Science projects"
 
-# URLs
-url:      "https://coreygz.github.io"   # your user site
-baseurl:  "/portfolio"                  # subpath for this project
+# GitHub Pages URLs
+url:      "https://coreygz.github.io"
+baseurl:  "/portfolio"
 
-# Theme (remote_theme must be declared when overriding layouts/includes)
-remote_theme: "pages-themes/merlot@v0.3.0"
+# Use Merlot v0.2.0 from the pages-themes repo
+remote_theme: "pages-themes/merlot@v0.2.0"
 
-# Plugins
+# Plugins (jekyll-remote-theme is required for remote_theme to work)
 plugins:
-  - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-feed
 
 # Markdown parser
 markdown: kramdown
 
-# Exclude from build
+# Skip these
 exclude:
   - Gemfile
   - Gemfile.lock
