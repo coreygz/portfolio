@@ -10,8 +10,8 @@ A running collection of pure & applied math articles, proofs, and mini-lectures.
 
 ## Projects
 
-1. [NFL Outcome Predictor (PDF)](/assets/docs/nfl-outcome-predictor.pdf)  
-   - A Random Forest & GBM ensemble in Python that predicts game winners.
+1. [Factorial Coffee Experiment (PDF)](/assets/docs/Coffee Project.pdf)  
+   – A detailed write-up of my factorial design coffee brewing study.
 
 2. [Coffee DOE Details](/data-science/coffee-doe/)  
    - An RSM experiment optimizing brewing conditions.  
