@@ -11,8 +11,8 @@ A showcase of my mathematical modeling, computational methods, and scientific co
 ## Math Projects
 
 1. **Blackjack Optimal Strategy**  
-   **Description:** Derived and validated optimal blackjack play using Markov chain models and Monte Carlo simulations.  
-   **Tools/Techniques:** Python (NumPy, Pandas), Excel (pivot tables & VBA).  
+   **Description:** Derived and validated optimal blackjack play using Markov chain models and conditional probabilities.  
+   **Tools/Techniques:** Mathematica, Excel.  
    - [Report (PDF)](/assets/docs/BJPROJECT.pdf)  
    - [Data (Excel)](/assets/docs/BJPROJECT.xlsx)
 
