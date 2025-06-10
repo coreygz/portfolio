@@ -10,7 +10,7 @@ A running collection of pure & applied math articles, proofs, and mini-lectures.
 
 ## Projects
 
-1. [Factorial Coffee Experiment (PDF)](../assets/docs/coffee_project.pdf)  
+1. [Factorial Coffee Experiment (PDF)](../assets/docs/Project_Report.pdf)  
    – A detailed write-up of my factorial design coffee brewing study.
 
 2. [Coffee DOE Details](/data-science/coffee-doe/)  
