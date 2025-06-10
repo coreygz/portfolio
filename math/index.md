@@ -13,9 +13,9 @@ A showcase of my mathematical modeling, computational methods, and scientific co
 1. **Blackjack Optimal Strategy**  
    **Description:** Derived and validated optimal blackjack play using Markov chain models and conditional probabilities.  
    **Tools/Techniques:** Mathematica, Excel.  
-   - [Report (PDF)](/assets/docs/BJPROJECT2.pdf)
-   - [Markov Chain Computation (Mathematica)](/assets/docs/math_model_disc/bjproject.nb)  
-   - [Worksheets (Excel)](/assets/docs/math_model_disc/BJPROJECT.xlsx)
+   - [Report (PDF)](../assets/docs/BJPROJECT2.pdf)
+   - [Markov Chain Computation (Mathematica)](../assets/docs/math_model_disc/bjproject.nb)  
+   - [Worksheets (Excel)](../assets/docs/math_model_disc/BJPROJECT.xlsx)
 
 2. **Lotka-Volterra Competition**  
    **Description:** Simulated inter-species competition via coupled ODEs and performed equilibrium stability analysis.  
