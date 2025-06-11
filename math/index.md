@@ -35,10 +35,11 @@ Explore theory, lecture notes, and algorithms in numerical methods and parallel 
 3. **Luo-Rudy Cardiac Cell Model**  
    **Description:** Implemented ODE/PDE systems to simulate cardiac action potentials and ion-channel dynamics.  
    **Tools/Techniques:** MATLAB, POWERPOINT.  
-   - [Final Report (PDF)](../assets/docs/practicum_cont/MAT%20555%20Luo-Rudy%20Final.pdf)  
-   - [ODE Code (MATLAB)](../assets/docs/practicum_cont/luo%20rudy%20ode.m)  
-   - [PDE Code (MARLAB)](../assets/docs/practicum_cont/luo%20rudy%20pde.m)
+   - [Final Report (PDF)](../assets/docs/practicum_cont/MAT%20555%20Luo-Rudy%20Final.pdf)
    - [Presentation(PowerPoint)](../assets/docs/practicum_cont/Luo%20Rudy%20Prez(Corey).pptx)
+   - [ODE Code (MATLAB)](../assets/docs/practicum_cont/luo_rudy_ode.m)  
+   - [PDE Code (MARLAB)](../assets/docs/practicum_cont/luo_rudy_pde.m)
+   
 
 4. **Magic Square Solver**  
    **Description:** Developed a constraint-based solver for n×n magic squares, comparing backtracking to CP-SAT integer programming.  
