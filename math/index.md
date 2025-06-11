@@ -21,8 +21,9 @@ Explore theory, lecture notes, and algorithms in numerical methods and parallel 
 ## Projects
 
 1. **Blackjack Optimal Strategy**  
-   **Description:** Derived and validated optimal blackjack play using Markov chain models and conditional probabilities.  
-   **Tools/Techniques:** Mathematica, Excel .  
+   **Description:** Developed a full decision‐analysis model for blackjack by constructing Markov‐chain transition matrices for each player hand (hard, soft, and pairs) against every dealer up-card. Computed expected values (EV) for hit/stand/double/split actions using conditional probability, and implemented a dynamic programming algorithm to derive the optimal strategy.  
+   **Tools/Techniques:** Python (NumPy, Pandas, Matplotlib), dynamic programming, conditional probability, Markov chain modeling.  
+
    - [Report (PDF)](../assets/docs/BJPROJECT2.pdf)  
    - [Worksheets (Excel)](../assets/docs/math_model_disc/BJPROJECT.xlsx)
    - [Markov Chain Code (Mathematica)](../assets/docs/math_model_disc/bjproject.nb)
