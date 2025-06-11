@@ -4,7 +4,7 @@ title: Mathematics Projects
 permalink: /math/
 ---
 
-# Mathematics Projects
+
 <!--
 This text is a comment and won’t show up
 when GitHub Pages renders the page.
