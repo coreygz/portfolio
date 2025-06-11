@@ -28,13 +28,15 @@ Explore theory, lecture notes, and algorithms in numerical methods and parallel 
    - [Worksheets (Excel)](../assets/docs/math_model_disc/BJPROJECT.xlsx)
    - [Markov Chain Code (Mathematica)](../assets/docs/math_model_disc/bjproject.nb)
 
+<br>
 2. **Lotka-Volterra Competition**  
    **Description:** Formulated and analyzed the classical two-species competition model under shared resource limitation.  Starting from logistic growth, I derived the coupled ODEs, performed nondimensionalization to minimize parameters, identified nullclines and equilibrium points, and conducted stability and phase-plane analyses to explore coexistence versus exclusion regimes.  
    **Tools/Techniques:** Mathematica for symbolic derivations and phase-portrait plotting; Python (SciPy, Matplotlib) and MATLAB for numerical simulations and visualization.  
    - [Report (PDF)](../assets/docs/math_model_cont/Competition_Model.pdf)
    - [Presentation(PowerPoint)](../assets/docs/math_model_cont/Lotka-Volterra%20Competition.pptx)
    - [Code (Python)](../assets/docs/math_model_cont/lotka_volterra_code.py)
-
+     
+<br>
 3. **Luo-Rudy Cardiac Cell Model**  
    **Description:** Implemented ODE/PDE systems to simulate cardiac action potentials and ion-channel dynamics.  
    **Tools/Techniques:** MATLAB, POWERPOINT.  
@@ -43,7 +45,7 @@ Explore theory, lecture notes, and algorithms in numerical methods and parallel 
    - [ODE Code (MATLAB)](../assets/docs/practicum_cont/luo%20rudy%20ode.m)  
    - [PDE Code (MARLAB)](../assets/docs/practicum_cont/luo%20rudy%20pde.m)
    
-
+<br>
 4. **Magic Square Solver**  
    **Description:** Developed a constraint-based solver for n×n magic squares, comparing backtracking to CP-SAT integer programming.  
    **Tools/Techniques:** Python (OR-Tools CP-SAT), Excel.  
