@@ -5,6 +5,9 @@ permalink: /math/
 ---
 
 # Mathematics Projects
+<!--
+This text is a comment and won’t show up
+when GitHub Pages renders the page.
 
 A showcase of my mathematical modeling and computational methods.  
 
@@ -16,7 +19,7 @@ Explore theory, lecture notes, and algorithms in numerical methods and parallel 
 <br><br>
 
 ## Projects
-
+-->
 1. **Blackjack Optimal Strategy**  
    **Description:** Derived and validated optimal blackjack play using Markov chain models and Monte Carlo simulations.  
    **Tools/Techniques:** Python (NumPy, Pandas), Excel (pivot tables & VBA).  
