@@ -25,6 +25,7 @@ Explore theory, lecture notes, and algorithms in numerical methods and parallel 
    **Tools/Techniques:** Mathematica, Excel .  
    - [Report (PDF)](../assets/docs/BJPROJECT2.pdf)  
    - [Worksheets (Excel)](../assets/docs/math_model_disc/BJPROJECT.xlsx)
+   - [Markov Chain Code (Mathematica)](../assets/docs/math_model_disc/bjproject.nb)
 
 2. **Lotka-Volterra Competition**  
    **Description:** Simulated inter-species competition via coupled ODEs and performed equilibrium stability analysis.  
