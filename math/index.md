@@ -62,4 +62,4 @@ Explore theory, lecture notes, and algorithms in numerical methods and parallel 
 - [Stock 3 (Excel](../assets/docs/stochastic_process/MSFT_project.xlsx)
 - [Stock 1 (R)](../assets/docs/stochastic_process/F.R)
 - [Stock 2 (R)](../assets/docs/stochastic_process/MGM_r.R)
-- [Stock 3 (R)](../assets/docs/stochastic_process/MSFT .R)
+- [Stock 3 (R)](../assets/docs/stochastic_process/MSFT%20.R)
