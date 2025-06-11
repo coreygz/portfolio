@@ -3,6 +3,7 @@ layout: default
 title: Mathematics Projects
 permalink: /math/
 ---
+# Mathematics Projects
 
 
 <!--
@@ -58,8 +59,8 @@ Explore theory, lecture notes, and algorithms in numerical methods and parallel 
 - [Full Report (PDF)](../assets/docs/stochastic_process/stock_report.pdf)
 - [Presentation (PowerPoint)](../assets/docs/stochastic_process/MAT533.pptx)
 - [Stock 1 (Excel)](../assets/docs/stochastic_process/F_project.xlsx)
-- [Stock 2 (Excel](../assets/docs/stochastic_process/MGM_project.xlsx)
-- [Stock 3 (Excel](../assets/docs/stochastic_process/MSFT_project.xlsx)
+- [Stock 2 (Excel)](../assets/docs/stochastic_process/MGM_project.xlsx)
+- [Stock 3 (Excel)](../assets/docs/stochastic_process/MSFT_project.xlsx)
 - [Stock 1 (R)](../assets/docs/stochastic_process/F.R)
 - [Stock 2 (R)](../assets/docs/stochastic_process/MGM_r.R)
 - [Stock 3 (R)](../assets/docs/stochastic_process/MSFT%20.R)
