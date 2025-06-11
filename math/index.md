@@ -28,7 +28,7 @@ Explore theory, lecture notes, and algorithms in numerical methods and parallel 
    - [Worksheets (Excel)](../assets/docs/math_model_disc/BJPROJECT.xlsx)
    - [Markov Chain Code (Mathematica)](../assets/docs/math_model_disc/bjproject.nb)
 
-
+<br><br>
 2. **Lotka-Volterra Competition**  
    **Description:** Formulated and analyzed the classical two-species competition model under shared resource limitation.  Starting from logistic growth, I derived the coupled ODEs, performed nondimensionalization to minimize parameters, identified nullclines and equilibrium points, and conducted stability and phase-plane analyses to explore coexistence versus exclusion regimes.  
    **Tools/Techniques:** Mathematica for symbolic derivations and phase-portrait plotting; Python (SciPy, Matplotlib) and MATLAB for numerical simulations and visualization.  
