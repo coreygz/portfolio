@@ -31,7 +31,7 @@ Explore theory, lecture notes, and algorithms in numerical methods and parallel 
    **Description:** Simulated inter-species competition via coupled ODEs and performed equilibrium stability analysis.  
    **Tools/Techniques:** Python (SciPy, Matplotlib), MATLAB, Jupyter Notebook.  
    - [Report (PDF)](../assets/docs/math_model_cont/Competition_Model.pdf)
-   - [Presentation(PowerPoint)](../assets/docs/math_model_cont/Lotka-Volterra Competition.pptx)
+   - [Presentation(PowerPoint)](../assets/docs/math_model_cont/Lotka-Volterra%20Competition.pptx)
    - [Code (Python)](../assets/docs/math_model_cont/lotka_volterra_code.py)
 
 3. **Luo-Rudy Cardiac Cell Model**  
