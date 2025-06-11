@@ -23,3 +23,4 @@ Begin here for theory notes, tutorials, and lecture materials:
    **Description:** Solved the burnt pancake puzzle of sorting four pancakes by size and burnt-side orientation. I wrote a flip routine and applied breadth-first search and A-star search with a custom state-distance heuristic.  
    **Tools/Techniques:** Python, search algorithms  
    * [Solver Write Up (PDF)](/assets/docs/Burnt%20Pancake%20Solver.pdf)
+   * [Solver (Python)](/assets/docs/Burnt%20Pancake%20Solver.pdf)
