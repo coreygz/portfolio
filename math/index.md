@@ -38,7 +38,7 @@ Explore theory, lecture notes, and algorithms in numerical methods and parallel 
      
 
 3. **Luo-Rudy Cardiac Cell Model**  
-   **Description:** Investigated cardiac action potential dynamics using the Luo–Rudy ionic model. Starting from the circuit analogy of membrane capacitance and ion‐channel conductances, we derived the coupled nonlinear ODEs for membrane voltage and gating variables, then extended to a PDE‐based fiber model to simulate propagation. Simulations used forward‐difference time stepping for single‐cell action potentials and central‐difference spatial schemes for fiber conduction. We explored the effects of extracellular potassium concentration and intercellular resistance on waveform shape and propagation speed.  
+   **Description:**  Used the Luo–Rudy model to explore how heart cells create and pass along electrical signals. I treated the cell membrane like an electric circuit with a capacitor and gates that open for ions, then wrote linked equations to track voltage and gate changes over time. Next, I built a line of connected cells to see how the signal travels down the fiber. I ran simulations that step through time for each cell and across space for the fiber to follow the wave. Finally, I tested how different potassium levels outside the cells and the strength of connections between cells affect the shape and speed of the electrical wave.   
   **Tools/Techniques:** MATLAB (ODE/PDE solver & visualization), PowerPoint
    - [Final Report (PDF)](../assets/docs/practicum_cont/MAT%20555%20Luo-Rudy%20Final.pdf)
    - [Presentation(PowerPoint)](../assets/docs/practicum_cont/Luo%20Rudy%20Prez(Corey).pptx)
