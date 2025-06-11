@@ -18,7 +18,7 @@ Explore theory, lecture notes, and algorithms in numerical methods and parallel 
 -->
 <br><br>
 
-## Projects
+
 
 1. **Blackjack Optimal Strategy**  
    **Description:** Developed a full decision‐analysis model for blackjack by constructing Markov‐chain transition matrices for each player hand (hard, soft, and pairs) against every dealer up-card. Computed expected values (EV) for hit/stand/double/split actions using conditional probability, and implemented a dynamic programming algorithm to derive the optimal strategy.  
