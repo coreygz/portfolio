@@ -15,11 +15,11 @@ A showcase of my mathematical modeling and computational methods.
 
 Explore theory, lecture notes, and algorithms in numerical methods and parallel computing:  
 - [Scientific Computing Deep Dive →](/math/scientific-computing/)
-
+-->
 <br><br>
 
 ## Projects
--->
+
 1. **Blackjack Optimal Strategy**  
    **Description:** Derived and validated optimal blackjack play using Markov chain models and Monte Carlo simulations.  
    **Tools/Techniques:** Python (NumPy, Pandas), Excel (pivot tables & VBA).  
