@@ -24,21 +24,22 @@ Explore theory, lecture notes, and algorithms in numerical methods and parallel 
    **Description:** Derived and validated optimal blackjack play using Markov chain models and conditional probabilities.  
    **Tools/Techniques:** MATHEMATICA, Excel .  
    - [Report (PDF)](../assets/docs/BJPROJECT2.pdf)  
-   - [Data (Excel)](../assets/docs/math_model_disc/BJPROJECT.xlsx)
+   - [Worksheets (Excel)](../assets/docs/math_model_disc/BJPROJECT.xlsx)
 
 2. **Lotka-Volterra Competition**  
    **Description:** Simulated inter-species competition via coupled ODEs and performed equilibrium stability analysis.  
    **Tools/Techniques:** Python (SciPy, Matplotlib), MATLAB, Jupyter Notebook.  
-   - [Report (PDF)](/assets/docs/Competition%20Model.pdf)  
-   - [Code (Python)](/assets/docs/lotka%20volterra%20code.py)
+   - [Report (PDF)](../assets/docs/math_model_cont/Competition_Model.pdf)
+   - [Presentation(PowerPoint)](../assets/docs/math_model_cont/Lotka-Volterra Competition.pptx)
+   - [Code (Python)](../assets/docs/math_model_cont/lotka_volterra_code.py)
 
 3. **Luo-Rudy Cardiac Cell Model**  
    **Description:** Implemented ODE/PDE systems to simulate cardiac action potentials and ion-channel dynamics.  
    **Tools/Techniques:** MATLAB, POWERPOINT.  
    - [Final Report (PDF)](../assets/docs/practicum_cont/MAT%20555%20Luo-Rudy%20Final.pdf)
    - [Presentation(PowerPoint)](../assets/docs/practicum_cont/Luo%20Rudy%20Prez(Corey).pptx)
-   - [ODE Code (MATLAB)](../assets/docs/practicum_cont/luo_rudy_ode.m)  
-   - [PDE Code (MARLAB)](../assets/docs/practicum_cont/luo_rudy_pde.m)
+   - [ODE Code (MATLAB)](../assets/docs/practicum_cont/luo%20rudy%20ode.m)  
+   - [PDE Code (MARLAB)](../assets/docs/practicum_cont/luo%20rudy%20pde.m)
    
 
 4. **Magic Square Solver**  
