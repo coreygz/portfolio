@@ -21,8 +21,8 @@ Explore theory, lecture notes, and algorithms in numerical methods and parallel 
 ## Projects
 
 1. **Blackjack Optimal Strategy**  
-   **Description:** Derived and validated optimal blackjack play using Markov chain models and Monte Carlo simulations.  
-   **Tools/Techniques:** Python (NumPy, Pandas), Excel (pivot tables & VBA).  
+   **Description:** Derived and validated optimal blackjack play using Markov chain models and conditional probabilities.  
+   **Tools/Techniques:** MATHEMATICA, Excel .  
    - [Report (PDF)](.../assets/docs/BJPROJECT.pdf)  
    - [Data (Excel)](/assets/docs/BJPROJECT.xlsx)
 
@@ -34,7 +34,7 @@ Explore theory, lecture notes, and algorithms in numerical methods and parallel 
 
 3. **Luo-Rudy Cardiac Cell Model**  
    **Description:** Implemented ODE/PDE systems to simulate cardiac action potentials and ion-channel dynamics.  
-   **Tools/Techniques:** MATLAB.  
+   **Tools/Techniques:** MATLAB, POWERPOINT.  
    - [Final Report (PDF)](.../assets/docs/practicum_cont/MAT 555 Luo-Rudy Final.pdf)  
    - [ODE Code (MATLAB)](.../assets/docs/practicum_cont/luo_rudy_ode.m)  
    - [PDE Code (MARLAB)](.../assets/docs/practicum_cont/luo_rudy_pde.m)
