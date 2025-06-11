@@ -22,7 +22,7 @@ Explore theory, lecture notes, and algorithms in numerical methods and parallel 
 
 1. **Blackjack Optimal Strategy**  
    **Description:** Derived and validated optimal blackjack play using Markov chain models and conditional probabilities.  
-   **Tools/Techniques:** MATHEMATICA, Excel .  
+   **Tools/Techniques:** Mathematica, Excel .  
    - [Report (PDF)](../assets/docs/BJPROJECT2.pdf)  
    - [Worksheets (Excel)](../assets/docs/math_model_disc/BJPROJECT.xlsx)
 
