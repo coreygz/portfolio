@@ -38,16 +38,17 @@ Explore theory, lecture notes, and algorithms in numerical methods and parallel 
      
 
 3. **Luo-Rudy Cardiac Cell Model**  
-   **Description:** Implemented ODE/PDE systems to simulate cardiac action potentials and ion-channel dynamics.  
-   **Tools/Techniques:** MATLAB, POWERPOINT.  
+   **Description:** Investigated cardiac action potential dynamics using the Luo–Rudy ionic model. Starting from the circuit analogy of membrane capacitance and ion‐channel conductances, we derived the coupled nonlinear ODEs for membrane voltage and gating variables, then extended to a PDE‐based fiber model to simulate propagation. Simulations used forward‐difference time stepping for single‐cell action potentials and central‐difference spatial schemes for fiber conduction. We explored the effects of extracellular potassium concentration and intercellular resistance on waveform shape and propagation speed.  
+  **Tools/Techniques:** MATLAB (ODE/PDE solver & visualization), PowerPoint
    - [Final Report (PDF)](../assets/docs/practicum_cont/MAT%20555%20Luo-Rudy%20Final.pdf)
    - [Presentation(PowerPoint)](../assets/docs/practicum_cont/Luo%20Rudy%20Prez(Corey).pptx)
    - [ODE Code (MATLAB)](../assets/docs/practicum_cont/luo%20rudy%20ode.m)  
    - [PDE Code (MARLAB)](../assets/docs/practicum_cont/luo%20rudy%20pde.m)
    
 
-4. **Magic Square Solver**  
-   **Description:** Developed a constraint-based solver for n×n magic squares, comparing backtracking to CP-SAT integer programming.  
-   **Tools/Techniques:** Python (OR-Tools CP-SAT), Excel.  
+## 4. Magic Square Construction via Operations Research  
+**Description:** Modeled the *n×n* magic square as a combinatorial optimization problem by assigning each cell \(x_{ij}\) an integer decision variable and enforcing row, column, and diagonal sum constraints, along with all-different conditions. Used a CP-SAT integer-programming solver to generate classical Lo-Shu (3×3) magic squares and extended the framework to construct orthogonal Latin squares for error-correcting codes.  
+**Tools/Techniques:** Excel, integer programming, combinatorial optimization.  
+
    - [Solver Report (PDF)](/assets/docs/Magic_Square_Solver.pdf)  
    - [Solver Code (Python)](/assets/docs/magic_square_solver.py)
