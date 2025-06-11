@@ -46,7 +46,7 @@ Explore theory, lecture notes, and algorithms in numerical methods and parallel 
    - [PDE Code (MARLAB)](../assets/docs/practicum_cont/luo%20rudy%20pde.m)
    
 
-## 4. Magic Square Construction via Operations Research  
+4. **Magic Square Construction via Operations Research**   
 **Description:** Modeled the *n×n* magic square as a combinatorial optimization problem by assigning each cell \(x_{ij}\) an integer decision variable and enforcing row, column, and diagonal sum constraints, along with all-different conditions. Used a CP-SAT integer-programming solver to generate classical Lo-Shu (3×3) magic squares and extended the framework to construct orthogonal Latin squares for error-correcting codes.  
 **Tools/Techniques:** Excel, integer programming, combinatorial optimization.  
 
