@@ -51,7 +51,6 @@ Explore theory, lecture notes, and algorithms in numerical methods and parallel 
    - [ODE Code (MATLAB)](../assets/docs/practicum_cont/luo%20rudy%20ode.m)  
    - [PDE Code (MATLAB)](../assets/docs/practicum_cont/luo%20rudy%20pde.m)
 
-   - 
 <br><br>
 **4. Lotka-Volterra Competition**  
    **Description:** Formulated and analyzed the classical two-species competition model under shared resource limitation.  Starting from logistic growth, I derived the coupled ODEs, performed nondimensionalization to minimize parameters, identified nullclines and equilibrium points, and conducted stability and phase-plane analyses to explore coexistence versus exclusion regimes.  
