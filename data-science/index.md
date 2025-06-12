@@ -22,6 +22,7 @@ Begin here for theory notes, tutorials and lecture materials:
    **Tools and Techniques:** Python, BFS, A star  
    * [Solver Write-Up (PDF)](../data-science/works/Burnt_Pancake/Burnt_Pancake.pdf)
    * [Solver(Python)](../data-science/works/Burnt_Pancake/burnt_pancake.py)
+     
 <br><br>
 2. **Q Learning Pathfinding Agent**  
    **Description:** I built a Q learning agent on a 4×4 grid with goal, forbidden, and wall squares. Using an ε-greedy policy, the agent updates Q-values with a learning rate and discount factor to learn the optimal action in each square.  
