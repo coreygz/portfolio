@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Data Science
+title: AI and Machine Learning
 permalink: /data-science/
 ---
 
-# Data Science Journal
+#  AI and Machine Learning Journal
 
 A collection of code tutorials, project write-ups, and learning resources in machine learning, probabilistic modeling, and search algorithms.
 <!--
