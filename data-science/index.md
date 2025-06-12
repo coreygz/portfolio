@@ -42,11 +42,11 @@ Begin here for theory notes, tutorials and lecture materials:
 
 <br><br>
 
-4. **Short-Term Weather Parameter Prediction**  
+3. **Short-Term Weather Parameter Prediction**  
    **Purpose:** Forecast temperature, humidity, pressure and wind speed.  
    **Description:** I built two models on the same dataset of past observations. First, a random forest regressor using the previous six hours of measurements to predict the next hour’s weather. Second, a sequence-to-sequence LSTM that uses the past twelve hours to forecast the next four hours simultaneously. I cleaned the data, applied normalization, split by time for training and testing, and compared their mean squared errors.  
    **Tools and Techniques:** Python (pandas, scikit learn), TensorFlow/Keras, Jupyter notebooks  
-   * [Forecast model report (PDF)](works/weather_prediction/Predicting%20Short-Term%20Weather%20Parameters%20with%20Random%20Forest%20and%20LSTM.pdf)  
+   * [Forecast model report (PDF)](data-science/works/weather_prediction/Predicting%20Short-Term%20Weather%20Parameters%20with%20Random%20Forest%20and%20LSTM%20(1).pdf)  
    * [Model implementation (Notebook)](works/weather_prediction/Project4%20%281%29.ipynb)  
    * [Final Mesonet dataset (CSV)](works/weather_prediction/Final%20Mesonet%20Dataset.csv)
 
