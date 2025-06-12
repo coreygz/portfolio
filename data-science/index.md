@@ -25,4 +25,5 @@ Begin here for theory notes, tutorials and lecture materials:
 2. **Q Learning Pathfinding Agent**  
    **Description:** I built a Q learning agent on a 4×4 grid with goal, forbidden, and wall squares. Using an ε-greedy policy, the agent updates Q-values with a learning rate and discount factor to learn the optimal action in each square.  
    **Tools and Techniques:** Python, Q learning  
-   * [Project Report (PDF)](/assets/docs/Qlearn.pdf)
+   * [Project Report (PDF)](../data-science/Q-learn/Qlearn.pdf)
+   * [Solver(Python)](../data-science/Q-learn/qlearn.py)
