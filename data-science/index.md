@@ -7,12 +7,12 @@ permalink: /data-science/
 # Data Science Journal
 
 A collection of code tutorials, project write-ups, and learning resources in machine learning, probabilistic modeling, and search algorithms.
-
+```
 ## Learning
 
 Begin here for theory notes, tutorials and lecture materials:  
 * [Data Science Learning Resources →](/data-science/learning/)
-
+```
 <br><br>
 
 ## Projects
