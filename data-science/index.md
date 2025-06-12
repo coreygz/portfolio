@@ -17,7 +17,7 @@ Begin here for theory notes, tutorials and lecture materials:
 
 ## Projects
 
-
+**Unwanted Bias in Machine Learning Algorithms**
 **Purpose:** Assess gender bias in income prediction models using the UCI Adult dataset.  
 **Description:** I compared three classifiers—logistic regression, decision tree and XGBoost—to predict whether income exceeds \$50 000. After training each model I applied the Cohort Shapley technique to quantify gender bias in both the dataset and the model’s predictions. XGBoost achieved the highest accuracy (87.26 %) but all models still showed significant bias, correctly inferring gender from income at rates above 65 %. This highlights the need for bias mitigation in real world applications.  
 **Tools and Techniques:** Python (pandas, scikit learn, XGBoost), Cohort Shapley, Jupyter notebooks  
@@ -42,14 +42,13 @@ Begin here for theory notes, tutorials and lecture materials:
 
 <br><br>
 
-3. **Short-Term Weather Parameter Prediction**  
+4. **Short-Term Weather Parameter Prediction**  
    **Purpose:** Forecast temperature, humidity, pressure and wind speed.  
    **Description:** I built two models on the same dataset of past observations. First, a random forest regressor using the previous six hours of measurements to predict the next hour’s weather. Second, a sequence-to-sequence LSTM that uses the past twelve hours to forecast the next four hours simultaneously. I cleaned the data, applied normalization, split by time for training and testing, and compared their mean squared errors.  
-   **Tools and Techniques:** Python (pandas, scikit learn), TensorFlow/Keras
-   * [Forecast model report (PDF)](/data-science/works/weather_prediction/Predicting%20Short-Term%20Weather%20Parameters%20with%20Random%20Forest%20and%20LSTM.pdf)  
-   * [Model implementation (Notebook)](/data-science/works/weather_prediction/Project4.ipynb)  
-   * [Final Mesonet dataset (CSV)](/data-science/works/weather_prediction/Final%20Mesonet%20Dataset.csv)
-
+   **Tools and Techniques:** Python (pandas, scikit learn), TensorFlow/Keras, Jupyter notebooks  
+   * [Forecast model report (PDF)](works/weather_prediction/Predicting%20Short-Term%20Weather%20Parameters%20with%20Random%20Forest%20and%20LSTM.pdf)  
+   * [Model implementation (Notebook)](works/weather_prediction/Project4%20%281%29.ipynb)  
+   * [Final Mesonet dataset (CSV)](works/weather_prediction/Final%20Mesonet%20Dataset.csv)
 
 <br><br>
 
