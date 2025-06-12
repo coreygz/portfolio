@@ -36,5 +36,7 @@ Begin here for theory notes, tutorials and lecture materials:
 3. **Tweet Classification Model Comparison**  
    **Description:** I compared four **machine learning** classifiers—SVM, Logistic Regression, Random Forest, and Decision Tree—on Twitter data using three feature sets (full, reduced, and expanded). I balanced the dataset with SMOTE, then evaluated each model’s accuracy, precision, and recall to determine the best approach.  
    **Tools and Techniques:** Python (pandas, scikit-learn), SMOTE, feature-extraction script  
-   * [Full Report (PDF)](/assets/docs/hw1report%20(1).pdf)  
-   * [Feature Extraction Script (Python)](/assets/docs/get_feature.py)
+   * [Full Report (PDF)](.../data-science/works/x_classification/hw1report%20(1).pdf)
+   * [Model Implementation (Notebook)](.../data-science/works/x_classification/hw1.ipynb)
+   * [Feature Extraction (Python)](.../data-science/works/x_classification/get_feature.py)
+   * [Model Code(Python)](.../data-science/works/x_classification/x_class.py)
