@@ -20,7 +20,7 @@ Begin here for theory notes, tutorials and lecture materials:
 1. **Burnt Pancake Solver**  
    **Description:** I solved the burnt pancake puzzle of sorting four pancakes by size and ensuring each burnt side faces down. I implemented a `flip(state, k)` routine in Python and applied breadth first search and A star search with a custom heuristic to find the optimal flip sequence.  
    **Tools and Techniques:** Python, BFS, A star  
-   * [Solver Write-Up (PDF)](../data-science/works/Burnt_Pancake/Burnt_Pancake.pdf)
+   * [Project Report (PDF)](../data-science/works/Burnt_Pancake/Burnt_Pancake.pdf)
    * [Solver(Python)](../data-science/works/Burnt_Pancake/burnt_pancake.py)
      
 <br><br>
