@@ -19,7 +19,7 @@ Begin here for theory notes, tutorials and lecture materials:
 
 <br><br>
 
-3. **Twitter Spam Detection Model Comparison**  
+1. **Twitter Spam Detection Model Comparison**  
 **Purpose:** Classify tweets as spam or not spam.  
 **Description:** Building on an initial SVM baseline for Twitter spam classification, I added at least eight new features (for example hashtag count, mention count, text length, sentiment score, URL presence and more) and implemented three additional algorithms: logistic regression, random forest and decision tree. I evaluated each model’s accuracy, precision and recall as I increased the feature set to compare overall performance and performance variation.  
    **Tools and Techniques:** Python (pandas, scikit-learn), feature-extraction script  
