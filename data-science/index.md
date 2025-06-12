@@ -17,7 +17,7 @@ Begin here for theory notes, tutorials and lecture materials:
 
 ## Projects
 
-
+1. **Unwanted Bias in Machine Learning Algorithms**
 **Purpose:** Assess gender bias in income prediction models using the UCI Adult dataset.  
 **Description:** I compared three classifiers—logistic regression, decision tree and XGBoost—to predict whether income exceeds \$50 000. After training each model I applied the Cohort Shapley technique to quantify gender bias in both the dataset and the model’s predictions. XGBoost achieved the highest accuracy (87.26 %) but all models still showed significant bias, correctly inferring gender from income at rates above 65 %. This highlights the need for bias mitigation in real world applications.  
 **Tools and Techniques:** Python (pandas, scikit learn, XGBoost), Cohort Shapley, Jupyter notebooks  
