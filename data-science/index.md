@@ -17,7 +17,7 @@ Begin here for theory notes, tutorials and lecture materials:
 
 ## Projects
 
-1. **Unwanted Bias in Machine Learning Algorithms**
+
 **Purpose:** Assess gender bias in income prediction models using the UCI Adult dataset.  
 **Description:** I compared three classifiers—logistic regression, decision tree and XGBoost—to predict whether income exceeds \$50 000. After training each model I applied the Cohort Shapley technique to quantify gender bias in both the dataset and the model’s predictions. XGBoost achieved the highest accuracy (87.26 %) but all models still showed significant bias, correctly inferring gender from income at rates above 65 %. This highlights the need for bias mitigation in real world applications.  
 **Tools and Techniques:** Python (pandas, scikit learn, XGBoost), Cohort Shapley, Jupyter notebooks  
@@ -42,7 +42,18 @@ Begin here for theory notes, tutorials and lecture materials:
 
 <br><br>
 
-3. **Burnt Pancake Solver**  
+3. **Short-Term Weather Parameter Prediction**  
+   **Purpose:** Forecast temperature, humidity, pressure and wind speed.  
+   **Description:** I built two models on the same dataset of past observations. First, a random forest regressor using the previous six hours of measurements to predict the next hour’s weather. Second, a sequence-to-sequence LSTM that uses the past twelve hours to forecast the next four hours simultaneously. I cleaned the data, applied normalization, split by time for training and testing, and compared their mean squared errors.  
+   **Tools and Techniques:** Python (pandas, scikit learn), TensorFlow/Keras
+   * [Forecast model report (PDF)](/data-science/works/weather_prediction/Predicting%20Short-Term%20Weather%20Parameters%20with%20Random%20Forest%20and%20LSTM.pdf)  
+   * [Model implementation (Notebook)](/data-science/works/weather_prediction/Project4.ipynb)  
+   * [Final Mesonet dataset (CSV)](/data-science/works/weather_prediction/Final%20Mesonet%20Dataset.csv)
+
+
+<br><br>
+
+4. **Burnt Pancake Solver**  
    **Description:** I solved the burnt pancake puzzle of sorting four pancakes by size and ensuring each burnt side faces down. I implemented a `flip(state, k)` routine in Python and applied breadth first search and A star search with a custom heuristic to find the optimal flip sequence.  
    **Tools and Techniques:** Python, BFS, A star  
    * [Project Report (PDF)](../data-science/works/Burnt_Pancake/Burnt_Pancake.pdf)
@@ -50,7 +61,7 @@ Begin here for theory notes, tutorials and lecture materials:
      
 <br><br>
 
-4. **Q-Learning Pathfinding Agent**  
+5. **Q-Learning Pathfinding Agent**  
    **Description:** I built a Q learning agent on a 4×4 grid with goal, forbidden, and wall squares. Using an ε-greedy policy, the agent updates Q-values with a learning rate and discount factor to learn the optimal action in each square.  
    **Tools and Techniques:** Python, Q learning  
    * [Project Report (PDF)](../data-science/Q-learn/Qlearn.pdf)
