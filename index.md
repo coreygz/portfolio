@@ -18,8 +18,8 @@ I am currently working as Academic Student Support at Delaware Technical Communi
 
 ## Sections
 
-- [Mathematics Projects](math/)  
-- [Data Science Projects](data-science/)
+- [Mathematics and Statistics](math/)  
+- [AI and Machine Learning](data-science/)
 
 <br><br>
 
