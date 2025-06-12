@@ -10,17 +10,19 @@ A collection of code tutorials, project write-ups, and learning resources in mac
 
 ## Learning
 
-Begin here for theory notes, tutorials, and lecture materials:  
+Begin here for theory notes, tutorials and lecture materials:  
 * [Data Science Learning Resources →](/data-science/learning/)
 
 <br><br>
 
 ## Projects
 
-
-
 1. **Burnt Pancake Solver**  
-   **Description:** Solved the burnt pancake puzzle of sorting four pancakes by size and burnt-side orientation. I wrote a flip routine and applied breadth-first search and A-star search with a custom state-distance heuristic.  
-   **Tools/Techniques:** Python, search algorithms  
-   * [Solver Write Up (PDF)](/assets/docs/Burnt%20Pancake%20Solver.pdf)
-   * [Solver (Python)](/assets/docs/Burnt%20Pancake%20Solver.pdf)
+   **Description:** I solved the burnt pancake puzzle of sorting four pancakes by size and ensuring each burnt side faces down. I implemented a `flip(state, k)` routine in Python and applied breadth first search and A star search with a custom heuristic to find the optimal flip sequence.  
+   **Tools and Techniques:** Python, BFS, A star  
+   * [Solver Write-Up (PDF)](/assets/docs/Burnt%20Pancake%20Solver.pdf)
+
+2. **Q Learning Pathfinding Agent**  
+   **Description:** I built a Q learning agent on a 4×4 grid with goal, forbidden, and wall squares. Using an ε-greedy policy, the agent updates Q-values with a learning rate and discount factor to learn the optimal action in each square.  
+   **Tools and Techniques:** Python, Q learning  
+   * [Project Report (PDF)](/assets/docs/Qlearn.pdf)
