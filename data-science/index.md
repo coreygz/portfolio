@@ -19,8 +19,9 @@ Begin here for theory notes, tutorials and lecture materials:
 
 <br><br>
 
-1. **Tweet Classification Model Comparison**  
-   **Description:** I compared four **machine learning** classifiers—SVM, Logistic Regression, Random Forest, and Decision Tree—on Twitter data using three feature sets (full, reduced, and expanded). I balanced the dataset with SMOTE, then evaluated each model’s accuracy, precision, and recall to determine the best approach.  
+3. **Twitter Spam Detection Model Comparison**  
+**Purpose:** Classify tweets as spam or not spam.  
+**Description:** Building on an initial SVM baseline for Twitter spam classification, I added at least eight new features (for example hashtag count, mention count, text length, sentiment score, URL presence and more) and implemented three additional algorithms: logistic regression, random forest and decision tree. I evaluated each model’s accuracy, precision and recall as I increased the feature set to compare overall performance and performance variation.  
    **Tools and Techniques:** Python (pandas, scikit-learn), feature-extraction script  
    * [Full Report (PDF)](/data-science/works/x_classification/hw1report%20(1).pdf)
    * [Model Implementation (Notebook)](../data-science/works/x_classification/hw1.ipynb)
