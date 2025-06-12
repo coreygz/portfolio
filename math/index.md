@@ -43,21 +43,23 @@ Explore theory, lecture notes, and algorithms in numerical methods and parallel 
 - [Stock 3 (R)](../assets/docs/stochastic_process/MSFT%20.R)
 
 <br><br>
-**3. Lotka-Volterra Competition**  
-   **Description:** Formulated and analyzed the classical two-species competition model under shared resource limitation.  Starting from logistic growth, I derived the coupled ODEs, performed nondimensionalization to minimize parameters, identified nullclines and equilibrium points, and conducted stability and phase-plane analyses to explore coexistence versus exclusion regimes.  
-   **Tools/Techniques:** Mathematica for symbolic derivations and phase-portrait plotting; Python (SciPy, Matplotlib) and MATLAB for numerical simulations and visualization.  
-   - [Report (PDF)](../assets/docs/math_model_cont/Competition_Model.pdf)
-   - [Presentation(PowerPoint)](../assets/docs/math_model_cont/Lotka-Volterra%20Competition.pptx)
-   - [Code (Python)](../assets/docs/math_model_cont/lotka_volterra_code.py)
-     
-<br><br>
-**4. Luo-Rudy Cardiac Cell Model**  
+**3. Luo-Rudy Cardiac Cell Model**  
    **Description:**  Used the Luo–Rudy model to explore how heart cells create and pass along electrical signals. I treated the cell membrane like an electric circuit with a capacitor and gates that open for ions, then wrote linked equations to track voltage and gate changes over time. Next, I built a line of connected cells to see how the signal travels down the fiber. I ran simulations that step through time for each cell and across space for the fiber to follow the wave. Finally, I tested how different potassium levels outside the cells and the strength of connections between cells affect the shape and speed of the electrical wave.   
   **Tools/Techniques:** MATLAB (ODE/PDE solver & visualization), PowerPoint
    - [Final Report (PDF)](../assets/docs/practicum_cont/MAT%20555%20Luo-Rudy%20Final.pdf)
    - [Presentation(PowerPoint)](../assets/docs/practicum_cont/Luo%20Rudy%20Prez(Corey).pptx)
    - [ODE Code (MATLAB)](../assets/docs/practicum_cont/luo%20rudy%20ode.m)  
    - [PDE Code (MATLAB)](../assets/docs/practicum_cont/luo%20rudy%20pde.m)
+
+   - 
+<br><br>
+**4. Lotka-Volterra Competition**  
+   **Description:** Formulated and analyzed the classical two-species competition model under shared resource limitation.  Starting from logistic growth, I derived the coupled ODEs, performed nondimensionalization to minimize parameters, identified nullclines and equilibrium points, and conducted stability and phase-plane analyses to explore coexistence versus exclusion regimes.  
+   **Tools/Techniques:** Mathematica for symbolic derivations and phase-portrait plotting; Python (SciPy, Matplotlib) and MATLAB for numerical simulations and visualization.  
+   - [Report (PDF)](../assets/docs/math_model_cont/Competition_Model.pdf)
+   - [Presentation(PowerPoint)](../assets/docs/math_model_cont/Lotka-Volterra%20Competition.pptx)
+   - [Code (Python)](../assets/docs/math_model_cont/lotka_volterra_code.py)
+     
    
 <br><br>
 **5. Magic Square Construction via Operations Research**   
