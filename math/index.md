@@ -9,10 +9,7 @@ permalink: /math/
 
 ## Learning Notes
 
-1. **Intro to Markov Chains**  
-   **Description:** A concise tutorial covering the fundamentals of Markov chains—state spaces, transition matrices, steady‐state behavior and simple examples such as random walks and queueing models.  
-   **Tools/Techniques:** Latex, Markov Chains  
-   - [Intro to Markov Chains (PDF)](../assets/docs/Markov_Chain.pdf)
+1. [Intro to Markov Chains (PDF)](../assets/docs/Markov_Chain.pdf) 
 
 <br><br>
 
