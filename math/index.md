@@ -6,20 +6,18 @@ permalink: /math/
 # Mathematics Projects
 
 
-<!--
-This text is a comment and won’t show up
-when GitHub Pages renders the page.
 
-A showcase of my mathematical modeling and computational methods.  
+## Learning Notes
 
-## Study
+1. **Markov Chains Primer**  
+   **Description:** A concise tutorial covering the fundamentals of Markov chains—state spaces, transition matrices, steady‐state behavior and simple examples such as random walks and queueing models.  
+   **Tools/Techniques:** Mathematica, Python  
+   - [Primer (PDF)](../assets/docs/Markov_Chain.pdf)
 
-Explore theory, lecture notes, and algorithms in numerical methods and parallel computing:  
-- [Scientific Computing Deep Dive →](/math/scientific-computing/)
--->
 <br><br>
 
 
+## Projects
 
  **1. Blackjack Optimal Strategy**  
    **Description:** Developed a full decision‐analysis model for blackjack by constructing Markov‐chain transition matrices for each player hand (hard, soft, and pairs) against every dealer up-card. Computed expected values (EV) for hit/stand/double/split actions using conditional probability, and implemented a dynamic programming algorithm to derive the optimal strategy.  
