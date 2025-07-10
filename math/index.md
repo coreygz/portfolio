@@ -11,6 +11,7 @@ permalink: /math/
 
 1. [Intro to Markov Chains (PDF)](../assets/docs/Markov_Chain.pdf) 
 
+2. [A Simple Guild to Stochastic Process (PDF)](../assets/docs/Stochastic_Process.pdf) 
 <br><br>
 
 
