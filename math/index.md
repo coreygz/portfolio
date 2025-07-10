@@ -7,7 +7,7 @@ permalink: /math/
 
 
 
-## Learning Notes
+## Math Papers
 
 1. [Intro to Markov Chains (PDF)](../assets/docs/Markov_Chain.pdf) 
 
